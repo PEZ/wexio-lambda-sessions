@@ -1,0 +1,4 @@
+.calva/output-window/
+.cpcache/
+.lsp/sqlite*.db
+.nrepl-port
