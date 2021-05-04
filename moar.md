@@ -1,6 +1,7 @@
-https://github.com/PEZ/wexio-lambda-sessions
+<div style="height: 88vh;">
 
----
+# https://github.com/PEZ/wexio-lambda-sessions
+
 
 <div style="display: flex; flex-direction: row;">
 
@@ -21,7 +22,7 @@ https://github.com/PEZ/wexio-lambda-sessions
     * http://clojurians.net
     * https://www.reddit.com/r/Clojure/
 
-### Clojurian JS
+### Clojure-ish JS
 
 * RamdaJS: https://ramdajs.com
 
@@ -41,6 +42,8 @@ https://github.com/PEZ/wexio-lambda-sessions
 </div>
 </div>
 
+</div>
+
 ---
 
-[Start](hello.md) > [Clojure](clojure.md) > [Calva](calva.md) > [ClojureScript](cljsrn.md) > [Moar?](moar.md)
+[Start](hello.md) > [Clojure](clojure.md) > [REPL](repl.md) > [Calva](calva.md) > [ClojureScript](cljsrn.md) > [Further](moar.md)
